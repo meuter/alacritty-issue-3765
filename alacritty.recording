@@ -1,0 +1,180 @@
+[0m[0KWindows PowerShell[0K[?25l
+Copyright (C) 2009 Microsoft Corporation. All rights reserved.[0K
+[0K
+[0K[?25hPS C:\Users\a167406>[0K[22G[?25lPS C:\Users\a167406> s[0K[?25hs[0Kh[0K[26G[?25lPS C:\Users\a167406> ssh c[0K[?25hm[0Ke[0K@[0Kk[0Ka[0Kt[0Ka[0Kj[0Ka[0K[?25l
+[0K[?25hLinux kataja 4.19.0-8-amd64 #1 SMP Debian 4.19.98-1 (2020-01-26) x86_64[0K[?25l
+[0K
+The programs included with the Debian GNU/Linux system are free software;[0K
+the exact distribution terms for each program are described in the[0K
+individual files in /usr/share/doc/*/copyright.[0K
+[0K
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent[0K
+permitted by applicable law.[0K
+Last login: Sat May 30 09:46:01 2020 from 10.87.16.3[0K
+[0K[?25h[?25l[13A[0;32mcme[0;36m @ kataja ~[0mhell[0K
+[0;32m└─ $ ▶[0m ht (C) 2009 Microsoft Corporation. All rights reserved.[0K
+[0K
+PS C:\Users\a167406> ssh cme@kataja[0K
+Linux kataja 4.19.0-8-amd64 #1 SMP Debian 4.19.98-1 (2020-01-26) x86_64[0K
+[0K
+The programs included with the Debian GNU/Linux system are free software;[0K
+the exact distribution terms for each program are described in the[0K
+individual files in /usr/share/doc/*/copyright.[0K
+[0K
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent[0K
+permitted by applicable law.[0K
+Last login: Sat May 30 09:46:01 2020 from 10.87.16.3[0K
+[0K
+    _ ___ _     _[0K
+|/ |_| | |_|  ||_|[0K
+|\ | | | | |\_|| |[0K
+[0K
+[0;1mToolchain exported as:[0m[0K
+[0;32;92maarch64_linux_gnu_path: [0m/media/toolchain-kataja/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/bin[0K
+[0;32;92marm_eabi_path: [0m/media/toolchain-kataja/gcc-arm-none-eabi-6-2017-q1-update/bin[0K[19A[8G[?25h[?25l[0;32m└─ $ ▶[0m ct (C) 2009 Microsoft Corporation. All rights reserved.[0K
+[0K
+PS C:\Users\a167406> ssh cme@kataja[0K
+Linux kataja 4.19.0-8-amd64 #1 SMP Debian 4.19.98-1 (2020-01-26) x86_64[0K
+[0K
+The programs included with the Debian GNU/Linux system are free software;[0K
+the exact distribution terms for each program are described in the[0K
+individual files in /usr/share/doc/*/copyright.[0K
+[0K
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent[0K
+permitted by applicable law.[0K
+Last login: Sat May 30 09:46:01 2020 from 10.87.16.3[0K
+[0K
+    _ ___ _     _[0K
+|/ |_| | |_|  ||_|[0K
+|\ | | | | |\_|| |[0K
+[0K
+[0;1mToolchain exported as:[0m[0K
+[0;32;92maarch64_linux_gnu_path: [0m/media/toolchain-kataja/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/bin[0K
+[0;32;92marm_eabi_path: [0m/media/toolchain-kataja/gcc-arm-none-eabi-6-2017-q1-update/bin[0K[19A[9G[?25h[?25l[0;32m└─ $ ▶[0m cl (C) 2009 Microsoft Corporation. All rights reserved.[0K
+[0K
+PS C:\Users\a167406> ssh cme@kataja[0K
+Linux kataja 4.19.0-8-amd64 #1 SMP Debian 4.19.98-1 (2020-01-26) x86_64[0K
+[0K
+The programs included with the Debian GNU/Linux system are free software;[0K
+the exact distribution terms for each program are described in the[0K
+individual files in /usr/share/doc/*/copyright.[0K
+[0K
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent[0K
+permitted by applicable law.[0K
+Last login: Sat May 30 09:46:01 2020 from 10.87.16.3[0K
+[0K
+    _ ___ _     _[0K
+|/ |_| | |_|  ||_|[0K
+|\ | | | | |\_|| |[0K
+[0K
+[0;1mToolchain exported as:[0m[0K
+[0;32;92maarch64_linux_gnu_path: [0m/media/toolchain-kataja/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/bin[0K
+[0;32;92marm_eabi_path: [0m/media/toolchain-kataja/gcc-arm-none-eabi-6-2017-q1-update/bin[0K[19A[10G[?25h[?25l[0;32m└─ $ ▶[0m cle(C) 2009 Microsoft Corporation. All rights reserved.[0K
+[0K
+PS C:\Users\a167406> ssh cme@kataja[0K
+Linux kataja 4.19.0-8-amd64 #1 SMP Debian 4.19.98-1 (2020-01-26) x86_64[0K
+[0K
+The programs included with the Debian GNU/Linux system are free software;[0K
+the exact distribution terms for each program are described in the[0K
+individual files in /usr/share/doc/*/copyright.[0K
+[0K
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent[0K
+permitted by applicable law.[0K
+Last login: Sat May 30 09:46:01 2020 from 10.87.16.3[0K
+[0K
+    _ ___ _     _[0K
+|/ |_| | |_|  ||_|[0K
+|\ | | | | |\_|| |[0K
+[0K
+[0;1mToolchain exported as:[0m[0K
+[0;32;92maarch64_linux_gnu_path: [0m/media/toolchain-kataja/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/bin[0K
+[0;32;92marm_eabi_path: [0m/media/toolchain-kataja/gcc-arm-none-eabi-6-2017-q1-update/bin[0K[19A[11G[?25h[?25l[0;32m└─ $ ▶[0m cleaC) 2009 Microsoft Corporation. All rights reserved.[0K
+[0K
+PS C:\Users\a167406> ssh cme@kataja[0K
+Linux kataja 4.19.0-8-amd64 #1 SMP Debian 4.19.98-1 (2020-01-26) x86_64[0K
+[0K
+The programs included with the Debian GNU/Linux system are free software;[0K
+the exact distribution terms for each program are described in the[0K
+individual files in /usr/share/doc/*/copyright.[0K
+[0K
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent[0K
+permitted by applicable law.[0K
+Last login: Sat May 30 09:46:01 2020 from 10.87.16.3[0K
+[0K
+    _ ___ _     _[0K
+|/ |_| | |_|  ||_|[0K
+|\ | | | | |\_|| |[0K
+[0K
+[0;1mToolchain exported as:[0m[0K
+[0;32;92maarch64_linux_gnu_path: [0m/media/toolchain-kataja/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/bin[0K
+[0;32;92marm_eabi_path: [0m/media/toolchain-kataja/gcc-arm-none-eabi-6-2017-q1-update/bin[0K[19A[12G[?25h[?25l[0;32m└─ $ ▶[0m clear) 2009 Microsoft Corporation. All rights reserved.[0K
+[0K
+PS C:\Users\a167406> ssh cme@kataja[0K
+Linux kataja 4.19.0-8-amd64 #1 SMP Debian 4.19.98-1 (2020-01-26) x86_64[0K
+[0K
+The programs included with the Debian GNU/Linux system are free software;[0K
+the exact distribution terms for each program are described in the[0K
+individual files in /usr/share/doc/*/copyright.[0K
+[0K
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent[0K
+permitted by applicable law.[0K
+Last login: Sat May 30 09:46:01 2020 from 10.87.16.3[0K
+[0K
+    _ ___ _     _[0K
+|/ |_| | |_|  ||_|[0K
+|\ | | | | |\_|| |[0K
+[0K
+[0;1mToolchain exported as:[0m[0K
+[0;32;92maarch64_linux_gnu_path: [0m/media/toolchain-kataja/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/bin[0K
+[0;32;92marm_eabi_path: [0m/media/toolchain-kataja/gcc-arm-none-eabi-6-2017-q1-update/bin[0K[19A[13G[?25h[8G[?25l
+[0;32mcme[0;36m @ kataja ~[0m[0K
+[0;32m└─ $ ▶[0m sers\a167406> ssh cme@kataja[0K
+Linux kataja 4.19.0-8-amd64 #1 SMP Debian 4.19.98-1 (2020-01-26) x86_64[0K
+[0K
+The programs included with the Debian GNU/Linux system are free software;[0K
+the exact distribution terms for each program are described in the[0K
+individual files in /usr/share/doc/*/copyright.[0K
+[0K
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent[0K
+permitted by applicable law.[0K
+Last login: Sat May 30 09:46:01 2020 from 10.87.16.3[0K
+[0K
+    _ ___ _     _[0K
+|/ |_| | |_|  ||_|[0K
+|\ | | | | |\_|| |[0K
+[0K
+[0;1mToolchain exported as:[0m[0K
+[0;32;92maarch64_linux_gnu_path: [0m/media/toolchain-kataja/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/bin[0K
+[0;32;92marm_eabi_path: [0m/media/toolchain-kataja/gcc-arm-none-eabi-6-2017-q1-update/bin[0K[17A[8G[?25h[?25l
+[0;32mcme[0;36m @ kataja ~[0m.19.0-8-amd64 #1 SMP Debian 4.19.98-1 (2020-01-26) x86_64[0K
+[0;32m└─ $ ▶[0m[0K
+The programs included with the Debian GNU/Linux system are free software;[0K
+the exact distribution terms for each program are described in the[0K
+individual files in /usr/share/doc/*/copyright.[0K
+[0K
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent[0K
+permitted by applicable law.[0K
+Last login: Sat May 30 09:46:01 2020 from 10.87.16.3[0K
+[0K
+    _ ___ _     _[0K
+|/ |_| | |_|  ||_|[0K
+|\ | | | | |\_|| |[0K
+[0K
+[0;1mToolchain exported as:[0m[0K
+[0;32;92maarch64_linux_gnu_path: [0m/media/toolchain-kataja/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/bin[0K
+[0;32;92marm_eabi_path: [0m/media/toolchain-kataja/gcc-arm-none-eabi-6-2017-q1-update/bin[0K[15A[8G[?25h[?25l
+[?25h[0;32mcme[0;36m @ kataja ~[0mncluded with the Debian GNU/Linux system are free software;[0K[?25l
+[0;32m└─ $ ▶[0m ct distribution terms for each program are described in the[0K
+individual files in /usr/share/doc/*/copyright.[0K
+[0K
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent[0K
+permitted by applicable law.[0K
+Last login: Sat May 30 09:46:01 2020 from 10.87.16.3[0K
+[0K
+    _ ___ _     _[0K
+|/ |_| | |_|  ||_|[0K
+|\ | | | | |\_|| |[0K
+[0K
+[0;1mToolchain exported as:[0m[0K
+[0;32;92maarch64_linux_gnu_path: [0m/media/toolchain-kataja/aarch64-linux-gnu/gcc-linaro-7.4.1-2019.02-x86_64_aarch64-linux-gnu/bin[0K
+[0;32;92marm_eabi_path: [0m/media/toolchain-kataja/gcc-arm-none-eabi-6-2017-q1-update/bin[0K[13A[8G[?25h
